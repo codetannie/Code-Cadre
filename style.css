@@ -1,0 +1,94 @@
+body {
+  text-align: center;
+  background-color: #FFF8DC;
+}
+
+.modify-body {
+  background-color: black;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #FFA07A;
+  font-family: "Lucida Console", monospace;
+  text-shadow: 3px 0 #da0463;
+}
+
+footer {
+  color: #FA8072;
+  font-family: sans-serif;
+}
+
+.a {
+  background: url("photos/1.png");
+}
+
+.s {
+  background: url("photos/2.png");
+}
+
+.d{
+  background: url("photos/3.png");
+}
+
+.f {
+  background: url("photos/4.png");
+}
+
+.g {
+  background: url("photos/5.png");
+}
+
+.h {
+  background: url("photos/6.png");
+}
+
+.j {
+  background: url("photos/7.png");
+}
+
+.k {
+  background: url("photos/8.png");
+}
+
+.set {
+  margin: auto;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #dbedf3;
+  opacity: 0.5;
+  background-color: red;
+  -moz-transform: scale(0.9);
+  -webkit-transform: scale(0.9);
+  -o-transform: scale(0.9);
+  -ms-transform: scale(0.9);
+  transform: scale(0.9);
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  outline: none;
+  border: 10px solid #404b69;
+  font-size: 5rem;
+  font-family: "Arvo", cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #da0463;
+  text-shadow: 3px 0 #dbedf3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: blue;
+}
