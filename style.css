@@ -1,66 +1,95 @@
-body {
+body 
+{
   text-align: center;
   background-color: #FFF8DC;
 }
 
-.modify-body {
+.modify-body 
+{
   background-color: black;
 }
 
-h1 {
-  font-size: 5rem;
+h1 
+{
+  font-size: 8rem;
   color: #FFA07A;
   font-family: "Lucida Console", monospace;
   text-shadow: 3px 0 #da0463;
 }
 
-footer {
+p 
+{
+   font-size: 2rem;
+   font-family: "Times New Roman", serif;
+   color: #4B0082;
+}
+ 
+h2
+{
+   font-size: 3rem;
+   font-family: "Times New Roman", serif;
+   color: #4B0082;
+}
+
+footer 
+{
   color: #FF7F50;
   font-family: "Georgia", serif;
 }
 
-.a {
+.a 
+{
   background: url("photos/1.png");
 }
 
-.s {
+.s 
+{
   background: url("photos/2.png");
 }
 
-.d{
+.d
+{
   background: url("photos/3.png");
 }
 
-.f {
+.f 
+{
   background: url("photos/4.png");
 }
 
-.g {
+.g 
+{
   background: url("photos/5.png");
 }
 
-.h {
+.h 
+{
   background: url("photos/6.png");
 }
 
-.j {
+.j 
+{
   background: url("photos/7.png");
 }
 
-.k {
+.k 
+{
   background: url("photos/8.png");
 }
 
-.set {
+.set 
+{
   margin: auto;
 }
 
-.game-over {
+.game-over 
+{
   background-color: red;
   opacity: 0.8;
 }
 
-.pressed {
+.pressed 
+{
   box-shadow: 0 3px 4px 0 #dbedf3;
   opacity: 0.5;
   background-color: red;
@@ -71,11 +100,13 @@ footer {
   transform: scale(0.9);
 }
 
-.red {
+.red 
+{
   color: red;
 }
 
-.drum {
+.drum 
+{
   outline: none;
   border: 6px solid #CD5C5C;
   font-size: 2rem;
